@@ -1,0 +1,1 @@
+unsigned int updatePlace(unsigned int parkingRow, int pos, int value);

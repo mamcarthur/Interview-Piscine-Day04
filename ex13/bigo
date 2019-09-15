@@ -1,0 +1,2 @@
+O(k) time complexity where k is number of empty bits to the left
+O(1) space

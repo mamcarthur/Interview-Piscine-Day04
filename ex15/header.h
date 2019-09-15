@@ -1,0 +1,1 @@
+int longestSequence(unsigned int parkingRow);

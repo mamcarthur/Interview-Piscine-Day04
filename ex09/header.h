@@ -1,0 +1,1 @@
+int occupiedPlaces(unsigned int parkingRow);

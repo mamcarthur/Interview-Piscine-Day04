@@ -1,0 +1,1 @@
+int leftmostCar(unsigned int parkingRow);

@@ -1,0 +1,1 @@
+int isEqual(int a, int b);
